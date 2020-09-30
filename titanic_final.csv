@@ -1,0 +1,694 @@
+﻿Age_final,Body_found,Deck Name,Destination,Gender,Lifeboat,Number of parents/children aboard,Number of siblings/spouses aboard,Passenger class,Point of embarkation,Survived
+61,Found,Bridge Deck,"Brooklyn, NY",Male,Not boarded,0,0,1,Southampton,0
+58,Found,Bridge Deck,"Buffalo, NY",Male,Not boarded,0,0,1,Cherbourg,0
+70,Found,Bridge Deck,"Milwaukee, WI",Male,Not boarded,1,1,1,Southampton,0
+55,Found,Bridge Deck,"Montreal, PQ",Male,Not boarded,1,1,1,Southampton,0
+48,Found,Bridge Deck,"Omaha, NE",Male,Not boarded,0,0,1,Cherbourg,0
+65,Found,Bridge Deck,"Providence, RI",Male,Not boarded,1,0,1,Cherbourg,0
+40,Found,Bridge Deck,Unknown,Male,Not boarded,0,0,1,Southampton,0
+36,Found,Middle Deck,"Nice, France",Male,Not boarded,2,0,2,Southampton,0
+85,Found,Middle Deck,Unknown,Male,Not boarded,0,0,8,Southampton,0
+39,Found,Promenade Deck,"Philadelphia, PA",Male,Not boarded,0,0,1,Cherbourg,0
+28,Found,Saloon Deck,"?Havana, Cuba",Male,Not boarded,0,0,1,Cherbourg,0
+21,Found,Saloon Deck,"Brunswick, ME",Male,Not boarded,1,0,1,Southampton,0
+61,Found,Saloon Deck,"Haddenfield, NJ",Male,Not boarded,0,0,1,Southampton,0
+58,Found,Saloon Deck,"Lexington, MA",Male,Not boarded,2,0,1,Cherbourg,0
+29,Found,Saloon Deck,"Springfield, MA",Male,Not boarded,0,0,1,Southampton,0
+50,Found,Shelter Deck,"Deephaven, MN / Cedar Rapids, IA",Male,Not boarded,0,1,1,Cherbourg,0
+44,Found,Shelter Deck,"Fond du Lac, WI",Male,Not boarded,0,2,1,Queenstown,0
+36,Found,Shelter Deck,"Little Onn Hall, Staffs",Male,Not boarded,0,1,1,Southampton,0
+30,Found,Shelter Deck,"Montreal, PQ / Chesterville, ON",Male,Not boarded,2,1,1,Southampton,0
+47,Found,Shelter Deck,"New York, NY",Male,Not boarded,0,1,1,Cherbourg,0
+67,Found,Shelter Deck,"New York, NY",Male,Not boarded,0,1,1,Southampton,0
+46,Found,Shelter Deck,"Surbiton Hill, Surrey",Male,Not boarded,0,0,1,Southampton,0
+32,Found,Shelter Deck,Unknown,Male,Not boarded,0,0,1,Cherbourg,0
+46,Found,Shelter Deck,"Vancouver, BC",Male,Not boarded,0,0,1,Cherbourg,0
+38,Found,Shelter Deck,"Winnipeg, MB",Male,Not boarded,1,0,1,Southampton,0
+47,Found,Shelter Deck,"Worcester, MA",Male,Not boarded,0,0,1,Southampton,0
+25,Found,Unknown,Argentina,Male,Not boarded,0,0,3,Southampton,0
+30,Found,Unknown,"Asarum, Sweden Brooklyn, NY",Male,Not boarded,0,0,3,Southampton,0
+30,Found,Unknown,"Auburn, NY",Male,Not boarded,0,0,2,Southampton,0
+40,Found,Unknown,"Aughnacliff, Co Longford, Ireland New York, NY",Male,Not boarded,0,0,3,Queenstown,0
+33,Found,Unknown,"Austria Niagara Falls, NY",Male,Not boarded,0,0,3,Cherbourg,0
+46,Found,Unknown,"Bennington, VT",Male,Not boarded,0,0,1,Southampton,0
+32,Found,Unknown,"Bergen, Norway",Male,Not boarded,0,0,3,Southampton,0
+26,Found,Unknown,"Bournemouth, England",Male,Not boarded,0,0,3,Southampton,0
+27,Found,Unknown,"Bromsgrove, England / Montreal, PQ",Male,Not boarded,0,1,2,Southampton,0
+104,Found,Unknown,"Bronx, NY",Male,Not boarded,0,0,4,Southampton,0
+25,Found,Unknown,"Catford, Kent / Detroit, MI",Male,Not boarded,0,0,2,Southampton,0
+24,Found,Unknown,"Clevedon, England",Male,Not boarded,0,0,2,Southampton,0
+18,Found,Unknown,"Co Cork, Ireland Roxbury, MA",Female,Not boarded,0,0,3,Queenstown,0
+48,Found,Unknown,"Copenhagen, Denmark",Male,Not boarded,0,0,2,Southampton,0
+19,Found,Unknown,"Cornwall / Hancock, MI",Male,Not boarded,1,1,2,Southampton,0
+37,Found,Unknown,"Cornwall / Spokane, WA",Male,Not boarded,0,1,2,Southampton,0
+16,Found,Unknown,"East Providence, RI",Male,Not boarded,1,1,3,Southampton,0
+40,Found,Unknown,"England / Philadelphia, PA",Male,Not boarded,0,1,2,Southampton,0
+28,Found,Unknown,Glasgow,Male,Not boarded,0,0,2,Southampton,0
+64,Found,Unknown,"Isle of Wight, England",Male,Not boarded,0,0,1,Southampton,0
+51,Found,Unknown,"Jacksonville, FL",Male,Not boarded,0,0,2,Southampton,0
+35,Found,Unknown,"Liverpool / Montreal, PQ",Male,Not boarded,0,0,2,Southampton,0
+33,Found,Unknown,London,Male,Not boarded,0,0,1,Southampton,0
+29,Found,Unknown,"Lucca, Italy / California",Male,Not boarded,0,1,2,Cherbourg,0
+71,Found,Unknown,"Montevideo, Uruguay",Male,Not boarded,0,0,1,Cherbourg,0
+34,Found,Unknown,"Moscow / Bronx, NY",Male,Not boarded,0,1,2,Southampton,0
+78,Found,Unknown,"New York, NY",Male,Not boarded,0,1,3,Cherbourg,0
+42,Found,Unknown,"New York, NY",Male,Not boarded,0,1,1,Southampton,0
+20,Found,Unknown,"Oslo, Norway Cameron, WI",Male,Not boarded,0,0,3,Southampton,0
+36,Found,Unknown,"Rochester, NY",Male,Not boarded,0,0,2,Southampton,0
+37,Found,Unknown,"Ruotsinphytaa, Finland New York, NY",Male,Not boarded,0,2,3,Southampton,0
+25,Found,Unknown,"San Francisco, CA",Male,Not boarded,0,0,1,Cherbourg,0
+44,Found,Unknown,"Seattle, WA / Toledo, OH",Male,Not boarded,0,0,2,Southampton,0
+50,Found,Unknown,Southampton,Male,Not boarded,0,0,2,Southampton,0
+25,Found,Unknown,"Southsea, Hants",Male,Not boarded,0,0,2,Southampton,0
+19,Found,Unknown,"St Ives, Cornwall / Calumet, MI",Male,Not boarded,0,0,2,Southampton,0
+34,Found,Unknown,"Stanton, IA",Male,Not boarded,1,1,3,Southampton,0
+40,Found,Unknown,"Sweden  Worcester, MA",Male,Not boarded,5,1,3,Southampton,0
+31,Found,Unknown,"Sweden / Arlington, NJ",Male,Not boarded,0,0,2,Southampton,0
+32,Found,Unknown,"Sydney, Australia",Male,Not boarded,0,0,2,Southampton,0
+14,Found,Unknown,Unknown,Female,Not boarded,0,1,3,Cherbourg,0
+69,Found,Unknown,Unknown,Female,Not boarded,5,0,6,Queenstown,0
+95,Found,Unknown,Unknown,Female,Not boarded,4,2,9,Southampton,0
+220,Found,Unknown,Unknown,Male,Not boarded,0,0,22,Cherbourg,0
+104,Found,Unknown,Unknown,Male,Not boarded,0,0,6,Queenstown,0
+809.8709369024857,Found,Unknown,Unknown,Male,Not boarded,6,14,79,Southampton,0
+32,Found,Unknown,"West Hampstead, London / Neepawa, MB",Male,Not boarded,0,2,2,Southampton,0
+24,Found,Unknown,"West Kensington, London",Male,Not boarded,0,0,2,Southampton,0
+50,Found,Unknown,"Weston-Super-Mare, Somerset",Male,Not boarded,0,1,2,Southampton,0
+18,Found,Unknown,"Windsor, England New York, NY",Male,Not boarded,0,0,3,Southampton,0
+54,Found,Upper Deck,"Dorchester, MA",Male,Not boarded,0,0,1,Southampton,0
+65,Found,Upper Deck,"East Bridgewater, MA",Male,Not boarded,0,0,1,Southampton,0
+57,Found,Upper Deck,"Southampton / New York, NY",Female,Not boarded,0,0,2,Southampton,0
+47,Found,Upper Deck,"St Anne's-on-Sea, Lancashire",Male,Not boarded,0,0,1,Southampton,0
+45,Not found,,"Trenton, NJ",Male,Not boarded,0,0,1,Southampton,0
+36,Not found,Bridge Deck,"Austria-Hungary / Germantown, Philadelphia, PA",Male,3,1,0,1,Cherbourg,1
+32,Not found,Bridge Deck,"Basel, Switzerland",Male,3,0,0,1,Cherbourg,1
+50,Not found,Bridge Deck,"Bryn Mawr, PA",Female,4,4,2,2,Southampton,2
+11,Not found,Bridge Deck,"Bryn Mawr, PA",Male,4,2,1,1,Southampton,1
+36,Not found,Bridge Deck,"Bryn Mawr, PA",Male,C,2,1,1,Southampton,1
+17,Not found,Bridge Deck,"Calgary, AB",Female,3,0,1,1,Southampton,1
+31,Not found,Bridge Deck,"Calgary, AB",Male,3,0,1,1,Southampton,1
+60,Not found,Bridge Deck,"Chicago, IL",Female,4,2,0,2,Cherbourg,2
+62,Not found,Bridge Deck,"Cincinatti, OH",Female,6,0,0,1,"",1
+44,Not found,Bridge Deck,"Denver, CO",Female,6,0,0,1,Cherbourg,1
+19,Not found,Bridge Deck,"Dowagiac, MI",Female,7,0,1,1,Cherbourg,1
+25,Not found,Bridge Deck,"Dowagiac, MI",Male,7,0,1,1,Cherbourg,1
+58,Not found,Bridge Deck,"Germantown, Philadelphia, PA",Female,3,1,0,1,Cherbourg,1
+19,Not found,Bridge Deck,"Greenwich, CT",Female,3,0,0,1,Southampton,1
+87,Not found,Bridge Deck,"Haverford, PA / Cooperstown, NY",Female,4,7,5,3,Cherbourg,3
+13,Not found,Bridge Deck,"Haverford, PA / Cooperstown, NY",Male,4,2,2,1,Cherbourg,1
+61,Not found,Bridge Deck,"Haverford, PA / Cooperstown, NY",Male,Not boarded,3,1,1,Cherbourg,0
+49,Not found,Bridge Deck,Liverpool,Male,C,0,0,1,Southampton,1
+33,Not found,Bridge Deck,"London  Vancouver, BC",Female,8,0,0,1,Southampton,1
+42,Not found,Bridge Deck,London / Middlesex,Male,Not boarded,0,0,1,Southampton,0
+30,Not found,Bridge Deck,"London, England",Female,8,0,0,1,Southampton,1
+100,Not found,Bridge Deck,"Milwaukee, WI",Female,7,3,1,2,Southampton,2
+23,Not found,Bridge Deck,"Minneapolis, MN",Female,7,0,1,1,Southampton,1
+24,Not found,Bridge Deck,"Minneapolis, MN",Male,7,0,1,1,Southampton,1
+79,Not found,Bridge Deck,"Montreal, PQ",Female,3,3,2,2,Southampton,2
+77,Not found,Bridge Deck,"Montreal, PQ",Female,6,2,1,2,Cherbourg,2
+24,Not found,Bridge Deck,"Montreal, PQ",Male,Not boarded,1,0,1,Cherbourg,0
+54,Not found,Bridge Deck,"Montreal, PQ",Male,Not boarded,0,1,2,Southampton,0
+46,Not found,Bridge Deck,"New York, NY",Male,Not boarded,0,0,1,Cherbourg,0
+33,Not found,Bridge Deck,"New York, NY",Male,Not boarded,0,0,1,Southampton,0
+29.87093690248566,Not found,Bridge Deck,"Paris, France",Female,6,0,1,1,Cherbourg,1
+24,Not found,Bridge Deck,"Paris, France",Female,9,0,0,1,Cherbourg,1
+57,Not found,Bridge Deck,"Paris, France",Male,Not boarded,0,1,1,Cherbourg,0
+22,Not found,Bridge Deck,"Providence, RI",Female,5,1,0,1,Cherbourg,1
+87,Not found,Bridge Deck,"St Louis, MO",Female,2,2,0,3,Southampton,3
+30,Not found,Bridge Deck,Unknown,Female,3,0,0,1,Southampton,1
+36,Not found,Bridge Deck,Unknown,Female,4,0,0,1,Cherbourg,1
+38,Not found,Bridge Deck,Unknown,Female,6,0,0,1,"",1
+16,Not found,Bridge Deck,Unknown,Female,8,0,0,1,Southampton,1
+24,Not found,Bridge Deck,Unknown,Female,9,0,0,1,Cherbourg,1
+58,Not found,Bridge Deck,Unknown,Female,Not boarded,0,0,1,Cherbourg,1
+35,Not found,Bridge Deck,Unknown,Male,3,0,0,1,Cherbourg,1
+24,Not found,Bridge Deck,Unknown,Male,Not boarded,0,0,1,Cherbourg,0
+29.87093690248566,Not found,Bridge Deck,Unknown,Male,Not boarded,0,0,1,Southampton,0
+45,Not found,Bridge Deck,"Washington, DC",Male,Not boarded,0,0,1,Southampton,0
+70,Not found,Bridge Deck,"Zurich, Switzerland",Female,5,3,1,2,Cherbourg,2
+60,Not found,Bridge Deck,"Zurich, Switzerland",Male,5,1,1,1,Cherbourg,1
+29,Not found,Lower Deck,Unknown,Female,13,4,2,9,Southampton,3
+31,Not found,Lower Deck,Unknown,Female,Not boarded,2,1,6,Southampton,0
+26,Not found,Middle Deck,"Boston, MA",Male,Not boarded,0,0,2,Southampton,0
+34,Not found,Middle Deck,"Chicago, IL",Female,14,0,0,2,Southampton,1
+29,Not found,Middle Deck,"Folkstone, Kent / New York, NY",Female,11,0,0,2,Southampton,1
+40,Not found,Middle Deck,"Guntur, India / Benton Harbour, MI",Female,11,4,2,4,Southampton,2
+12,Not found,Middle Deck,"Guntur, India / Benton Harbour, MI",Female,13,1,2,2,Southampton,1
+1,Not found,Middle Deck,"Guntur, India / Benton Harbour, MI",Male,11,1,2,2,Southampton,1
+24,Not found,Middle Deck,"London / Montreal, PQ",Female,11,0,0,2,Southampton,1
+5,Not found,Middle Deck,"Nice, France",Male,D,2,2,4,Southampton,2
+22,Not found,Middle Deck,Pennsylvania,Female,14,0,0,2,Southampton,1
+25,Not found,Middle Deck,"Perkins County, SD",Male,A,0,0,3,Southampton,1
+29.87093690248566,Not found,Middle Deck,Unknown,Female,D,1,1,3,Cherbourg,1
+25,Not found,Middle Deck,Unknown,Male,10,0,0,3,Cherbourg,1
+29.87093690248566,Not found,Middle Deck,Unknown,Male,Not boarded,0,0,3,Cherbourg,0
+29.87093690248566,Not found,Middle Deck,Unknown,Male,Not boarded,0,0,3,Queenstown,0
+19,Not found,Middle Deck,Unknown,Male,Not boarded,0,0,3,Southampton,0
+56,Not found,Promenade Deck,"Basel, Switzerland",Male,3,0,0,1,Cherbourg,1
+39,Not found,Promenade Deck,"Belfast, NI",Male,Not boarded,0,0,1,Southampton,0
+40,Not found,Promenade Deck,"Glen Ridge, NJ",Male,7,0,0,1,Cherbourg,1
+80,Not found,Promenade Deck,"Hessle, Yorks",Male,B,0,0,1,Southampton,1
+48,Not found,Promenade Deck,London / Paris,Female,1,0,1,1,Cherbourg,1
+49,Not found,Promenade Deck,London / Paris,Male,1,0,1,1,Cherbourg,1
+28,Not found,Promenade Deck,"New Britain, CT",Male,7,0,0,1,Southampton,1
+36,Not found,Promenade Deck,"New York, NY",Female,Not boarded,0,0,1,Cherbourg,0
+71,Not found,Promenade Deck,"New York, NY",Male,Not boarded,0,0,1,Cherbourg,0
+33,Not found,Promenade Deck,"Paris, France",Female,11,0,0,1,Cherbourg,1
+45,Not found,Promenade Deck,"Paris, France",Male,7,0,0,1,Cherbourg,1
+41,Not found,Promenade Deck,"Pomeroy, WA",Male,Not boarded,0,0,1,Southampton,0
+54,Not found,Promenade Deck,"San Francisco, CA",Female,5,1,1,1,Southampton,1
+53,Not found,Promenade Deck,"San Francisco, CA",Male,13,1,1,1,Southampton,1
+4,Not found,Promenade Deck,"San Francisco, CA",Male,5,2,0,1,Southampton,1
+29.87093690248566,Not found,Promenade Deck,"Seattle, WA",Male,Not boarded,0,0,1,Southampton,0
+56,Not found,Promenade Deck,"St James, Long Island, NY",Male,Not boarded,0,0,1,Cherbourg,0
+29.87093690248566,Not found,Promenade Deck,"Stoughton, MA",Male,Not boarded,0,0,1,Southampton,0
+29.87093690248566,Not found,Promenade Deck,"Streatham, Surrey",Male,Not boarded,0,0,1,Southampton,0
+31,Not found,Promenade Deck,"Trenton, NJ",Male,Not boarded,0,0,1,Southampton,0
+36,Not found,Promenade Deck,"Winnipeg, MB",Male,Not boarded,0,0,1,Cherbourg,0
+45,Not found,Saloon Deck,"Boston, MA",Female,5,0,1,1,Southampton,1
+42,Not found,Saloon Deck,"Boston, MA",Male,5,0,1,1,Southampton,1
+36,Not found,Saloon Deck,"Bristol, Avon / Jacksonville, FL",Female,10,0,0,2,Southampton,1
+54,Not found,Saloon Deck,"Brookline, MA",Female,4,0,1,1,Cherbourg,1
+48,Not found,Saloon Deck,"Brooklyn, NY",Female,8,0,0,1,Southampton,1
+54,Not found,Saloon Deck,"Brunswick, ME",Male,Not boarded,1,0,1,Southampton,0
+20,Not found,Saloon Deck,"Cologne, Germany",Male,7,0,0,2,Cherbourg,1
+47,Not found,Saloon Deck,"East Orange, NJ",Male,Not boarded,0,0,1,Southampton,0
+52,Not found,Saloon Deck,"Haverford, PA",Female,4,0,1,1,Cherbourg,1
+135,Not found,Saloon Deck,"Hudson, NY",Female,10,0,2,3,Southampton,3
+29.87093690248566,Not found,Saloon Deck,"Kingston, Surrey",Male,3,0,0,1,Southampton,1
+54,Not found,Saloon Deck,"Lexington, MA",Female,6,0,2,2,Cherbourg,2
+34,Not found,Saloon Deck,London,Male,13,0,0,2,Southampton,1
+42,Not found,Saloon Deck,"London / Winnipeg, MB",Male,Not boarded,0,0,1,Southampton,0
+36,Not found,Saloon Deck,"Montreal, PQ",Male,Not boarded,0,0,2,Cherbourg,0
+18,Not found,Saloon Deck,"New York, NY",Female,10,0,1,1,Southampton,1
+23,Not found,Saloon Deck,"New York, NY",Female,11,0,0,2,Cherbourg,1
+49,Not found,Saloon Deck,"New York, NY",Female,3,0,1,1,Cherbourg,1
+66,Not found,Saloon Deck,"New York, NY",Female,5,3,1,2,Southampton,2
+45,Not found,Saloon Deck,"New York, NY",Female,7,1,0,1,Cherbourg,1
+49,Not found,Saloon Deck,"New York, NY",Female,8,0,0,1,Southampton,1
+48,Not found,Saloon Deck,"New York, NY",Male,3,0,1,1,Cherbourg,1
+43,Not found,Saloon Deck,"New York, NY",Male,5,0,1,1,Cherbourg,1
+37,Not found,Saloon Deck,"New York, NY",Male,5,1,1,1,Southampton,1
+23,Not found,Saloon Deck,"New York, NY",Male,7,1,0,1,Cherbourg,1
+19,Not found,Saloon Deck,"New York, NY",Male,Not boarded,0,1,1,Southampton,0
+29.87093690248566,Not found,Saloon Deck,Paris,Male,Not boarded,0,0,2,Cherbourg,0
+67,Not found,Saloon Deck,"Paris, France",Female,9,2,0,2,Southampton,2
+60,Not found,Saloon Deck,"Philadelphia, PA",Female,8,0,0,1,Cherbourg,1
+60,Not found,Saloon Deck,"Portland, OR",Female,5,0,1,1,Cherbourg,1
+64,Not found,Saloon Deck,"Portland, OR",Male,Not boarded,0,1,1,Cherbourg,0
+29.87093690248566,Not found,Saloon Deck,"Southington / Noank, CT",Female,8,0,1,1,Southampton,1
+41,Not found,Saloon Deck,"Southington / Noank, CT",Male,Not boarded,0,1,1,Southampton,0
+32,Not found,Saloon Deck,Unknown,Female,8,0,0,1,Cherbourg,1
+27,Not found,Saloon Deck,Unknown,Male,3,0,0,1,Cherbourg,1
+29.87093690248566,Not found,Saloon Deck,"Westcliff-on-Sea, Essex",Male,Not boarded,0,0,1,Southampton,0
+31,Not found,Shelter Deck,"Albany, NY",Male,7,0,0,1,Cherbourg,1
+53,Not found,Shelter Deck,"Bayside, Queens, NY",Female,D,0,2,1,Southampton,1
+24,Not found,Shelter Deck,"Belgium  Montreal, PQ",Female,6,0,0,1,Cherbourg,1
+59,Not found,Shelter Deck,"Belmont, MA",Female,D,0,2,1,Southampton,1
+58,Not found,Shelter Deck,"Birkdale, England Cleveland, Ohio",Female,8,0,0,1,Southampton,1
+30,Not found,Shelter Deck,"Brockton, MA",Male,Not boarded,0,0,1,Southampton,0
+37,Not found,Shelter Deck,"Brooklyn, NY",Male,Not boarded,1,0,1,Cherbourg,0
+48,Not found,Shelter Deck,"Deephaven, MN / Cedar Rapids, IA",Female,2,0,1,1,Cherbourg,1
+50,Not found,Shelter Deck,"Elkins Park, PA",Female,4,1,1,1,Cherbourg,1
+77,Not found,Shelter Deck,"Elkins Park, PA",Male,Not boarded,3,1,2,Cherbourg,0
+37,Not found,Shelter Deck,"Fond du Lac, WI",Female,14,0,1,1,Queenstown,1
+33,Not found,Shelter Deck,"Green Bay, WI",Female,14,0,1,1,Queenstown,1
+58,Not found,Shelter Deck,"Greenwich, CT",Female,3,1,0,1,Southampton,1
+39,Not found,Shelter Deck,"Haverford, PA",Female,4,1,1,1,Cherbourg,1
+17,Not found,Shelter Deck,"Haverford, PA",Male,B,2,0,1,Cherbourg,1
+49,Not found,Shelter Deck,"Haverford, PA",Male,Not boarded,1,1,1,Cherbourg,0
+18,Not found,Shelter Deck,"Huntington, WV",Female,6,0,1,1,Southampton,1
+24,Not found,Shelter Deck,"Huntington, WV",Male,Not boarded,0,1,1,Southampton,0
+22,Not found,Shelter Deck,"Isleworth, England",Female,8,0,1,1,Southampton,1
+29,Not found,Shelter Deck,"Isleworth, England",Male,Not boarded,0,1,1,Southampton,0
+76,Not found,Shelter Deck,"Little Onn Hall, Staffs",Female,6,0,1,1,Southampton,1
+29.87093690248566,Not found,Shelter Deck,"London /  East Orange, NJ",Female,5 7,0,1,1,Southampton,1
+48,Not found,Shelter Deck,"London /  East Orange, NJ",Male,5 7,0,1,1,Southampton,1
+55,Not found,Shelter Deck,London / Birmingham,Male,Not boarded,0,0,1,Southampton,0
+29.87093690248566,Not found,Shelter Deck,"London, England",Male,D,0,0,1,Southampton,1
+29.87093690248566,Not found,Shelter Deck,"London, England",Male,Not boarded,0,0,1,Southampton,0
+26,Not found,Shelter Deck,"Los Angeles, CA",Female,4,0,1,1,Cherbourg,1
+27,Not found,Shelter Deck,"Los Angeles, CA",Male,Not boarded,0,1,1,Cherbourg,0
+17,Not found,Shelter Deck,"Madrid, Spain",Female,8,0,1,1,Cherbourg,1
+18,Not found,Shelter Deck,"Madrid, Spain",Male,Not boarded,0,1,1,Cherbourg,0
+29.87093690248566,Not found,Shelter Deck,"Manchester, England",Male,3,0,0,1,Southampton,1
+55,Not found,Shelter Deck,"Montreal, PQ",Male,Not boarded,0,0,1,Southampton,0
+27,Not found,Shelter Deck,"Montreal, PQ / Chesterville, ON",Female,Not boarded,4,2,2,Southampton,0
+1,Not found,Shelter Deck,"Montreal, PQ / Chesterville, ON",Male,11,2,1,1,Southampton,1
+79,Not found,Shelter Deck,"Mt Airy, Philadelphia, PA",Female,7,2,0,2,Cherbourg,2
+35,Not found,Shelter Deck,"New York, NY",Female,11,0,1,1,Cherbourg,1
+55,Not found,Shelter Deck,"New York, NY",Female,2,0,2,1,Southampton,1
+94,Not found,Shelter Deck,"New York, NY",Female,4,0,2,3,Cherbourg,3
+24,Not found,Shelter Deck,"New York, NY",Female,7,0,0,1,Cherbourg,1
+35,Not found,Shelter Deck,"New York, NY",Female,D,0,1,1,Southampton,1
+63,Not found,Shelter Deck,"New York, NY",Female,Not boarded,0,1,1,Southampton,0
+30,Not found,Shelter Deck,"New York, NY",Male,11,0,1,1,Cherbourg,1
+26,Not found,Shelter Deck,"New York, NY",Male,5,0,0,1,Cherbourg,1
+69,Not found,Shelter Deck,"New York, NY",Male,Not boarded,0,1,2,Cherbourg,0
+45,Not found,Shelter Deck,"New York, NY",Male,Not boarded,0,1,1,Southampton,0
+35,Not found,Shelter Deck,"New York, NY /  Stamford CT",Female,D,0,1,1,Southampton,1
+38,Not found,Shelter Deck,"New York, NY /  Stamford CT",Male,D,0,1,1,Southampton,1
+55,Not found,Shelter Deck,"New York, NY / Briarcliff Manor NY",Female,8,0,0,1,Cherbourg,1
+40,Not found,Shelter Deck,"New York, NY / Greenwich CT",Female,3,0,0,1,Southampton,1
+36,Not found,Shelter Deck,"New York, NY / Washington, DC",Female,8,0,0,1,Cherbourg,1
+43,Not found,Shelter Deck,"Newark, NJ",Female,5,0,1,1,Cherbourg,1
+54,Not found,Shelter Deck,"Newark, NJ",Male,1,0,1,1,Cherbourg,1
+29.87093690248566,Not found,Shelter Deck,"Paris, France",Male,7,0,0,1,Cherbourg,1
+29.87093690248566,Not found,Shelter Deck,"Paris, France / New York, NY",Female,5,0,1,1,Cherbourg,1
+49,Not found,Shelter Deck,"Paris, France / New York, NY",Male,5,0,1,1,Cherbourg,1
+50,Not found,Shelter Deck,"Paris, France New York, NY",Female,Not boarded,0,0,1,Cherbourg,0
+29.87093690248566,Not found,Shelter Deck,"Portland, OR",Male,Not boarded,0,0,1,Southampton,0
+35,Not found,Shelter Deck,"Scituate, MA",Female,D,0,1,1,Southampton,1
+37,Not found,Shelter Deck,"Scituate, MA",Male,Not boarded,0,1,1,Southampton,0
+28,Not found,Shelter Deck,"Stockholm, Sweden / Washington, DC",Male,D,0,0,1,Southampton,1
+52,Not found,Shelter Deck,"Toronto, ON",Male,6,0,0,1,Southampton,1
+35,Not found,Shelter Deck,Unknown,Female,4,0,0,1,Cherbourg,1
+39,Not found,Shelter Deck,Unknown,Female,8,0,0,1,Cherbourg,1
+64,Not found,Shelter Deck,Unknown,Female,8,0,0,2,Southampton,2
+29.87093690248566,Not found,Shelter Deck,Unknown,Male,Not boarded,0,0,1,Southampton,0
+53,Not found,Shelter Deck,"Washington, DC",Male,B,0,0,1,Cherbourg,1
+62,Not found,Shelter Deck,"Wimbledon Park, London / Hayling Island, Hants",Male,Not boarded,0,0,1,Southampton,0
+135,Not found,Shelter Deck,"Winnipeg, MB",Female,10,10,10,4,Southampton,4
+83,Not found,Shelter Deck,"Winnipeg, MB",Male,Not boarded,6,4,2,Southampton,0
+36,Not found,Shelter Deck,"Winnipeg, MN",Male,A,0,0,1,Cherbourg,0
+61,Not found,Shelter Deck,"Youngstown, OH",Female,8,2,0,2,Southampton,2
+52,Not found,Unknown,"Aberdeen / Portland, OR",Female,9,0,0,4,Southampton,2
+18,Not found,Unknown,"Altdorf, Switzerland",Female,Not boarded,0,1,3,Southampton,0
+25,Not found,Unknown,"Altdorf, Switzerland",Male,Not boarded,0,1,3,Southampton,0
+22,Not found,Unknown,"Antwerp, Belgium / Stanton, OH",Male,Not boarded,0,0,3,Southampton,0
+49,Not found,Unknown,"Ascot, Berkshire / Rochester, NY",Male,Not boarded,0,0,1,Southampton,0
+45,Not found,Unknown,"Australia Fingal, ND",Male,15,0,0,3,Southampton,1
+100,Not found,Unknown,Austria,Male,Not boarded,0,0,12,Southampton,0
+17,Not found,Unknown,Austria-Hungary,Male,Not boarded,0,0,3,Southampton,0
+22,Not found,Unknown,"Bangkok, Thailand / Roseville, IL",Female,13,1,1,2,Southampton,1
+27,Not found,Unknown,"Bangkok, Thailand / Roseville, IL",Male,13,3,1,4,Southampton,2
+57,Not found,Unknown,"Barcelona, Spain / Havana, Cuba",Female,12,0,2,4,Cherbourg,2
+40,Not found,Unknown,"Barre, Co Washington, VT",Male,Not boarded,0,0,2,Southampton,0
+209.0965583173996,Not found,Unknown,Belfast,Male,Not boarded,0,0,13,Southampton,0
+30,Not found,Unknown,"Belgium Detroit, MI",Male,11,0,0,3,Southampton,1
+17,Not found,Unknown,"Berne, Switzerland / Central City, IA",Female,12,0,0,2,Cherbourg,1
+39,Not found,Unknown,"Bishopstoke, Hants / Fayette Valley, ID",Female,14,3,1,4,Southampton,2
+31,Not found,Unknown,"Bishopstoke, Hants / Fayette Valley, ID",Male,Not boarded,1,1,2,Southampton,0
+17,Not found,Unknown,"Bournemouth, England Newark, NJ",Female,12,1,0,3,Southampton,1
+44,Not found,Unknown,"Bournemouth, England Newark, NJ",Male,Not boarded,1,0,3,Southampton,0
+39,Not found,Unknown,"Bournmouth, England",Female,10,6,3,6,Southampton,3
+36,Not found,Unknown,"Bournmouth, England",Male,Not boarded,2,1,2,Southampton,0
+21,Not found,Unknown,"Brennes, Norway New York",Male,Not boarded,0,0,3,Southampton,0
+51,Not found,Unknown,"Bridgerule, Devon",Male,Not boarded,0,2,6,Southampton,0
+29.87093690248566,Not found,Unknown,"Bridgwater, Somerset, England",Male,Not boarded,0,0,3,Southampton,0
+36,Not found,Unknown,"Brighton, Sussex",Male,Not boarded,0,0,2,Southampton,0
+31,Not found,Unknown,"Bristol, England / New Britain, CT",Female,10,0,0,2,Southampton,1
+30,Not found,Unknown,"Bristol, England / New Britain, CT",Male,Not boarded,0,1,2,Southampton,0
+19,Not found,Unknown,"Bristol, England Cleveland, OH",Male,Not boarded,0,0,3,Southampton,0
+29,Not found,Unknown,"Bromsgrove, England / Montreal, PQ",Female,10,0,1,2,Southampton,1
+34,Not found,Unknown,"Brooklyn, NY",Female,12,0,0,2,Southampton,1
+35,Not found,Unknown,"Broomfield, Chelmsford, England",Male,Not boarded,0,0,3,Southampton,0
+30,Not found,Unknown,"Bryn Mawr, PA, USA",Male,Not boarded,0,0,2,Southampton,0
+18,Not found,Unknown,"Buenos Aires, Argentina / New Jersey, NJ",Male,Not boarded,0,0,2,Southampton,0
+140,Not found,Unknown,"Bulgaria Chicago, IL",Male,Not boarded,0,0,15,Southampton,0
+29.87093690248566,Not found,Unknown,"Bulgaria Coon Rapids, IA",Male,Not boarded,0,0,3,Southampton,0
+62,Not found,Unknown,"Cambridge, MA",Male,Not boarded,0,0,2,Queenstown,0
+55,Not found,Unknown,"Cape Town, South Africa / Seattle, WA",Female,14,3,1,4,Southampton,2
+60,Not found,Unknown,"Cape Town, South Africa / Seattle, WA",Male,Not boarded,1,1,2,Southampton,0
+19,Not found,Unknown,"Chelsea, London",Male,B,0,0,2,Southampton,1
+29.87093690248566,Not found,Unknown,"Chicago, IL",Male,Not boarded,0,0,1,Cherbourg,0
+30,Not found,Unknown,"Co Athlone, Ireland New York, NY",Female,15,0,0,3,Queenstown,1
+29,Not found,Unknown,"Co Athlone, Ireland New York, NY",Male,13 15 B,0,0,3,Queenstown,1
+29.87093690248566,Not found,Unknown,"Co Clare, Ireland Washington, DC",Female,13,0,0,3,Queenstown,1
+19,Not found,Unknown,"Co Cork, Ireland Charlestown, MA",Male,Not boarded,0,0,3,Queenstown,0
+24,Not found,Unknown,"Co Limerick, Ireland Sherbrooke, PQ",Male,Not boarded,0,0,3,Queenstown,0
+32,Not found,Unknown,"Co Longford, Ireland New York, NY",Female,16,0,0,6,Queenstown,2
+37,Not found,Unknown,"Co Sligo, Ireland Hartford, CT",Female,Not boarded,0,0,3,Queenstown,0
+18,Not found,Unknown,"Co Sligo, Ireland New York, NY",Female,Not boarded,0,0,3,Queenstown,0
+28,Not found,Unknown,"Columbus, OH",Female,Not boarded,0,0,2,Southampton,1
+45,Not found,Unknown,"Cooperstown, NY",Female,4,0,0,1,Cherbourg,1
+82,Not found,Unknown,Cornwall,Male,Not boarded,0,0,4,Southampton,0
+33,Not found,Unknown,"Cornwall / Akron, OH",Female,14,3,1,4,Southampton,2
+98,Not found,Unknown,"Cornwall / Akron, OH",Female,4,7,5,6,Southampton,3
+2,Not found,Unknown,"Cornwall / Akron, OH",Male,14,1,1,2,Southampton,1
+4,Not found,Unknown,"Cornwall / Akron, OH",Male,4,2,2,4,Southampton,2
+23,Not found,Unknown,"Cornwall / Akron, OH",Male,Not boarded,1,2,2,Southampton,0
+42,Not found,Unknown,"Cornwall / Camden, NJ",Male,Not boarded,0,2,4,Southampton,0
+72,Not found,Unknown,"Cornwall / Clear Creek, CO",Male,Not boarded,0,2,4,Southampton,0
+20,Not found,Unknown,"Cornwall / Hancock, MI",Female,11,0,0,2,Southampton,1
+43,Not found,Unknown,"Cornwall / Houghton, MI",Male,Not boarded,0,0,4,Southampton,0
+29,Not found,Unknown,"Cornwall / Spokane, WA",Female,Not boarded,0,1,2,Southampton,0
+25,Not found,Unknown,"Cornwall, England Houghton, MI",Male,Not boarded,0,0,2,Southampton,0
+38,Not found,Unknown,Croatia,Male,Not boarded,0,0,3,Southampton,0
+28,Not found,Unknown,"Dagsas, Sweden Fower, MN",Male,Not boarded,0,0,3,Southampton,0
+25,Not found,Unknown,"Deer Lodge, MT",Female,12,1,0,2,Southampton,1
+34,Not found,Unknown,"Denmark / New York, NY",Male,Not boarded,0,0,2,Southampton,0
+6,Not found,Unknown,"Denmark Hill, Surrey / Chicago",Female,11,1,0,2,Southampton,1
+28,Not found,Unknown,"Denmark Hill, Surrey / Chicago",Male,Not boarded,1,0,2,Southampton,0
+24,Not found,Unknown,"Detroit, MI",Female,4,2,0,2,Southampton,1
+1,Not found,Unknown,"Detroit, MI",Male,4,1,1,2,Southampton,1
+33,Not found,Unknown,"Devon, England Wichita, KS",Female,10,4,2,6,Southampton,2
+1,Not found,Unknown,"Devon, England Wichita, KS",Male,10,2,1,3,Southampton,1
+26,Not found,Unknown,"Devon, England Wichita, KS",Male,Not boarded,2,1,3,Southampton,0
+36,Not found,Unknown,"Devonport, England",Male,Not boarded,0,0,2,Southampton,0
+51,Not found,Unknown,"Dorking, Surrey, England",Male,Not boarded,0,0,3,Southampton,0
+21,Not found,Unknown,"Duluth, MN",Female,8 10,0,0,1,Southampton,1
+35,Not found,Unknown,"East Providence, RI",Female,A,1,1,3,Southampton,1
+13,Not found,Unknown,"East Providence, RI",Male,Not boarded,2,0,3,Southampton,0
+45,Not found,Unknown,"Effington Rut, SD",Male,Not boarded,0,0,3,Southampton,0
+30,Not found,Unknown,"Elizabeth, NJ",Female,Not boarded,0,3,2,Southampton,1
+34,Not found,Unknown,"Elizabeth, NJ",Male,12,0,1,2,Southampton,0
+26,Not found,Unknown,"Elmira, NY / Orange, NJ",Male,Not boarded,0,0,2,Southampton,0
+47,Not found,Unknown,England,Male,Not boarded,0,0,5,Southampton,0
+54,Not found,Unknown,"England / Bennington, VT",Female,14,2,0,4,Southampton,2
+23,Not found,Unknown,"England / Detroit, MI",Male,Not boarded,0,0,2,Southampton,0
+29,Not found,Unknown,"England / Sacramento, CA",Female,10,0,1,2,Southampton,1
+44,Not found,Unknown,"England / Sacramento, CA",Male,Not boarded,0,1,2,Southampton,0
+28,Not found,Unknown,"England / San Francisco, CA",Female,14,0,1,2,Southampton,1
+29,Not found,Unknown,"England / San Francisco, CA",Male,Not boarded,0,1,2,Southampton,0
+24,Not found,Unknown,"England Albion, NY",Male,D,0,0,3,Southampton,1
+26,Not found,Unknown,"England Albion, NY",Male,Not boarded,0,0,3,Southampton,0
+36,Not found,Unknown,"England Brooklyn, NY",Female,2,2,0,3,Southampton,1
+12,Not found,Unknown,"England Brooklyn, NY",Male,2,2,2,6,Southampton,2
+22,Not found,Unknown,"England New York, NY",Male,Not boarded,0,0,3,Southampton,0
+19,Not found,Unknown,"England Oglesby, IL",Male,B,0,0,3,Southampton,1
+60,Not found,Unknown,"England Salt Lake City, Utah",Male,Not boarded,0,0,1,Southampton,0
+18,Not found,Unknown,"Finland / Minneapolis, MN",Female,16,2,0,2,Southampton,1
+30,Not found,Unknown,"Finland / Washington, DC",Female,10,0,0,2,Southampton,1
+41,Not found,Unknown,"Finland Sudbury, ON",Male,Not boarded,0,0,3,Southampton,0
+32,Not found,Unknown,"Foresvik, Norway Portland, ND",Male,Not boarded,0,0,3,Southampton,0
+54,Not found,Unknown,"Frankfort, KY",Male,Not boarded,0,0,2,Southampton,0
+29.87093690248566,Not found,Unknown,"Gallipolis, Ohio / ? Paris / New York",Male,Not boarded,0,0,1,Cherbourg,0
+21,Not found,Unknown,"Geneva, Switzerland / Radnor, PA",Male,A,1,0,1,Cherbourg,1
+51,Not found,Unknown,"Geneva, Switzerland / Radnor, PA",Male,Not boarded,1,0,1,Cherbourg,0
+57,Not found,Unknown,"Glasgow / Bangor, ME",Male,Not boarded,0,0,2,Queenstown,0
+21,Not found,Unknown,"Goteborg, Sweden / Rockford, IL",Male,Not boarded,0,0,2,Southampton,0
+24,Not found,Unknown,"Goteborg, Sweden Huntley, IL",Male,Not boarded,0,0,3,Southampton,0
+44,Not found,Unknown,Greece,Male,Not boarded,0,2,6,Cherbourg,0
+34,Not found,Unknown,"Greenport, NY",Female,10,1,1,2,Southampton,1
+8,Not found,Unknown,"Greenport, NY",Male,10,2,0,2,Southampton,1
+42,Not found,Unknown,"Greenport, NY",Male,Not boarded,1,1,2,Southampton,0
+18,Not found,Unknown,"Greensburg, PA",Female,C,0,0,3,Cherbourg,1
+17,Not found,Unknown,Guernsey,Female,Not boarded,0,0,2,Southampton,1
+23,Not found,Unknown,Guernsey,Male,Not boarded,0,0,2,Southampton,0
+97,Not found,Unknown,"Guernsey / Elizabeth, NJ",Male,Not boarded,0,4,8,Southampton,0
+70,Not found,Unknown,"Guernsey / Montclair, NJ and/or Toledo, Ohio",Male,Not boarded,0,0,2,Southampton,0
+21,Not found,Unknown,"Guernsey / Wilmington, DE",Female,12,0,0,2,Southampton,1
+66,Not found,Unknown,"Guernsey, England / Edgewood, RI",Male,Not boarded,0,0,2,Southampton,0
+19,Not found,Unknown,"Gunnislake, England / Butte, MT",Male,Not boarded,0,0,2,Southampton,0
+16,Not found,Unknown,"Halesworth, England",Male,Not boarded,0,0,2,Southampton,0
+30,Not found,Unknown,"Halifax, NS",Female,13,0,0,2,Queenstown,1
+62,Not found,Unknown,"Halifax, NS",Male,Not boarded,0,0,1,Southampton,0
+23,Not found,Unknown,"Hamilton, ON",Male,Not boarded,0,0,2,Southampton,0
+29.87093690248566,Not found,Unknown,"Harrow, England",Male,14,0,0,2,Southampton,1
+39,Not found,Unknown,"Harrow-on-the-Hill, Middlesex",Male,Not boarded,0,0,2,Southampton,0
+26,Not found,Unknown,"Hartford, CT",Male,Not boarded,0,0,3,Southampton,0
+29,Not found,Unknown,"Hartford, Huntingdonshire",Male,Not boarded,0,0,2,Southampton,0
+28,Not found,Unknown,"Helsinki, Finland Ashtabula, Ohio",Male,Not boarded,0,0,2,Southampton,0
+54,Not found,Unknown,"Holley, NY",Male,Not boarded,0,0,2,Southampton,0
+29.87093690248566,Not found,Unknown,"Hong Kong New York, NY",Male,13,0,0,3,Southampton,1
+64,Not found,Unknown,"Hong Kong New York, NY",Male,C,0,0,6,Southampton,2
+27,Not found,Unknown,"Hornsey, England",Male,Not boarded,0,0,2,Southampton,0
+52,Not found,Unknown,"Ilford, Essex / Winnipeg, MB",Female,14,3,1,4,Southampton,2
+43,Not found,Unknown,"Ilford, Essex / Winnipeg, MB",Male,Not boarded,1,1,2,Southampton,0
+21,Not found,Unknown,"Ilfracombe, Devon",Female,12,1,0,2,Southampton,1
+43,Not found,Unknown,"Ilfracombe, Devon",Male,Not boarded,1,0,2,Southampton,0
+47,Not found,Unknown,"Illinois, USA",Male,Not boarded,0,0,3,Southampton,0
+22,Not found,Unknown,"India / Pittsburgh, PA",Female,Not boarded,0,0,2,Southampton,0
+55,Not found,Unknown,"India / Rapid City, SD",Female,13,0,0,2,Southampton,1
+50,Not found,Unknown,"Indianapolis, IN",Female,9,0,0,2,Southampton,1
+35,Not found,Unknown,"Indianapolis, IN",Male,15,0,0,1,Cherbourg,1
+22,Not found,Unknown,Ireland,Female,13,0,0,3,Queenstown,1
+30,Not found,Unknown,Ireland,Female,Not boarded,0,0,3,Queenstown,0
+29.87093690248566,Not found,Unknown,Ireland,Male,Not boarded,0,0,3,Queenstown,0
+31,Not found,Unknown,"Ireland Brooklyn, NY",Male,Not boarded,0,0,3,Queenstown,0
+61.87093690248566,Not found,Unknown,"Ireland Chicago, IL",Female,Not boarded,3,1,6,Queenstown,0
+66,Not found,Unknown,"Ireland Chicago, IL",Male,Not boarded,1,1,6,Queenstown,0
+24,Not found,Unknown,"Ireland New York, NY",Female,Not boarded,0,0,3,Queenstown,0
+82.87093690248565,Not found,Unknown,"Ireland New York, NY",Male,Not boarded,0,0,9,Queenstown,0
+21,Not found,Unknown,"Ireland Philadelphia, PA",Male,Not boarded,0,0,3,Queenstown,0
+29.87093690248566,Not found,Unknown,"Italy Philadelphia, PA",Male,15,0,0,3,Southampton,1
+38,Not found,Unknown,"Janjgir, India / Pennsylvania",Female,Not boarded,0,0,2,Southampton,0
+16,Not found,Unknown,"Karberg, Sweden Jerome Junction, AZ",Male,Not boarded,0,0,3,Southampton,0
+19,Not found,Unknown,"Kilmacowen, Co Sligo, Ireland New York, NY",Female,C,0,0,3,Queenstown,1
+22,Not found,Unknown,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",Female,13,0,0,3,Queenstown,1
+21,Not found,Unknown,"Kingwilliamstown, Co Cork, Ireland New York, NY",Male,13,0,0,3,Queenstown,1
+18,Not found,Unknown,"Kontiolahti, Finland / Detroit, MI",Female,Not boarded,1,1,2,Southampton,0
+23,Not found,Unknown,"Krakoryd, Sweden Bloomington, IL",Male,Not boarded,0,0,3,Southampton,0
+26,Not found,Unknown,"Krakudden, Sweden Moune, IL",Male,Not boarded,0,0,3,Southampton,0
+27,Not found,Unknown,"Lake Arthur, Chavez County, NM",Male,Not boarded,0,0,2,Southampton,0
+25,Not found,Unknown,Liverpool,Male,Not boarded,0,0,2,Southampton,0
+16,Not found,Unknown,"Liverpool / Montreal, PQ",Male,Not boarded,0,0,2,Southampton,0
+29.87093690248566,Not found,Unknown,"Liverpool, England / Belfast",Male,Not boarded,0,0,1,Southampton,0
+29.87093690248566,Not found,Unknown,"Liverpool, England Bedford, OH",Female,16,0,1,3,Southampton,1
+29.87093690248566,Not found,Unknown,"Liverpool, England Bedford, OH",Male,Not boarded,0,1,3,Southampton,0
+94,Not found,Unknown,London,Female,12,4,3,6,Southampton,3
+44,Not found,Unknown,London,Female,Not boarded,0,1,2,Southampton,0
+62,Not found,Unknown,London,Male,15,0,0,2,Southampton,1
+234,Not found,Unknown,London,Male,Not boarded,0,2,14,Southampton,0
+29.87093690248566,Not found,Unknown,"London / Chicago, IL",Female,11,0,0,2,Southampton,1
+24,Not found,Unknown,"London / Fort Byron, NY",Male,9,0,0,2,Southampton,1
+45,Not found,Unknown,"London / New York, NY",Female,9,0,0,2,Southampton,1
+30,Not found,Unknown,"London / New York, NY",Male,Not boarded,0,0,1,Southampton,0
+28,Not found,Unknown,"London / Staten Island, NY",Female,13,0,0,2,Southampton,1
+18,Not found,Unknown,"London Brooklyn, NY",Male,12,0,0,3,Southampton,1
+23,Not found,Unknown,"London New York, NY",Female,Not boarded,0,0,3,Southampton,1
+18,Not found,Unknown,"London Skanteales, NY",Female,C,0,0,3,Southampton,1
+31,Not found,Unknown,"London, England",Male,9,0,0,2,Southampton,1
+50,Not found,Unknown,"London, England / Marietta, Ohio and Milwaukee, WI",Female,13,0,0,2,Southampton,1
+18,Not found,Unknown,"London, England Norfolk, VA",Female,13,1,0,3,Southampton,1
+1,Not found,Unknown,"London, England Norfolk, VA",Male,11,1,0,3,Southampton,1
+29.87093690248566,Not found,Unknown,"Los Angeles, CA",Male,9,0,0,1,Southampton,1
+35,Not found,Unknown,"Lower Clapton, Middlesex or Erdington, Birmingham",Male,Not boarded,0,0,3,Southampton,0
+24,Not found,Unknown,"Lucca, Italy / California",Female,12,0,1,2,Cherbourg,1
+18,Not found,Unknown,"Lyndhurst, England",Male,Not boarded,0,0,2,Southampton,0
+66,Not found,Unknown,"Mamaroneck, NY",Female,14,0,0,4,Southampton,2
+20,Not found,Unknown,"Medeltorp, Sweden Chicago, IL",Female,Not boarded,0,0,3,Southampton,0
+59,Not found,Unknown,"Merrill, WI",Male,Not boarded,0,0,3,Southampton,0
+40,Not found,Unknown,"Mexico City, Mexico",Male,Not boarded,0,0,1,Cherbourg,0
+39,Not found,Unknown,"Middleburg Heights, OH",Male,Not boarded,0,0,2,Southampton,0
+30,Not found,Unknown,"Milford, NH",Male,14,0,0,2,Cherbourg,1
+26,Not found,Unknown,"Minneapolis, MN",Female,Not boarded,1,1,2,Southampton,0
+30,Not found,Unknown,"Minneapolis, MN",Male,Not boarded,1,1,2,Southampton,0
+45,Not found,Unknown,"Montevideo, Uruguay",Male,Not boarded,0,0,2,Southampton,0
+24,Not found,Unknown,"Moscow / Bronx, NY",Female,12,0,1,2,Southampton,1
+19,Not found,Unknown,"Myren, Sweden New York, NY",Male,Not boarded,0,0,3,Southampton,0
+39,Not found,Unknown,"New Forest, England",Male,Not boarded,0,0,4,Southampton,0
+5,Not found,Unknown,"New York, NY",Female,13,0,0,3,Southampton,1
+29.87093690248566,Not found,Unknown,"New York, NY",Female,5,0,0,1,Cherbourg,1
+29.87093690248566,Not found,Unknown,"New York, NY",Female,5,0,1,1,Southampton,1
+83.87093690248565,Not found,Unknown,"New York, NY",Female,6,0,2,2,Cherbourg,2
+67,Not found,Unknown,"New York, NY",Female,7,2,0,2,Cherbourg,2
+29.87093690248566,Not found,Unknown,"New York, NY",Female,7,0,0,1,Southampton,1
+35,Not found,Unknown,"New York, NY",Female,8,0,1,1,Southampton,1
+29.87093690248566,Not found,Unknown,"New York, NY",Female,D,0,0,1,Cherbourg,1
+14,Not found,Unknown,"New York, NY",Female,Not boarded,0,1,2,Cherbourg,1
+27,Not found,Unknown,"New York, NY",Female,Not boarded,0,0,3,Queenstown,0
+42,Not found,Unknown,"New York, NY",Female,Not boarded,0,0,2,Southampton,1
+29.87093690248566,Not found,Unknown,"New York, NY",Male,1,0,0,1,Southampton,1
+29.87093690248566,Not found,Unknown,"New York, NY",Male,14,0,0,1,Cherbourg,0
+50,Not found,Unknown,"New York, NY",Male,5,0,2,1,Southampton,1
+34,Not found,Unknown,"New York, NY",Male,7,0,0,1,Southampton,1
+45,Not found,Unknown,"New York, NY",Male,9,0,0,1,Southampton,1
+153.87093690248565,Not found,Unknown,"New York, NY",Male,Not boarded,0,2,6,Cherbourg,0
+25,Not found,Unknown,"New York, NY",Male,Not boarded,0,0,3,Queenstown,0
+85.87093690248565,Not found,Unknown,"New York, NY",Male,Not boarded,0,0,2,Southampton,0
+26,Not found,Unknown,"Newark, NJ",Male,Not boarded,0,0,2,Southampton,0
+22,Not found,Unknown,"Norrlot, Sweden Chicago, IL",Female,Not boarded,0,0,3,Southampton,0
+47,Not found,Unknown,"North Evington, England",Male,Not boarded,0,0,2,Southampton,0
+16,Not found,Unknown,"Norway Los Angeles, CA",Female,16,0,0,3,Southampton,1
+19,Not found,Unknown,"Norwich / New York, NY",Female,13,0,1,2,Southampton,1
+32,Not found,Unknown,"Norwich / New York, NY",Male,13,0,1,2,Southampton,1
+23,Not found,Unknown,"Oskarshamn, Sweden Minneapolis, MN",Male,13,0,0,3,Southampton,1
+18,Not found,Unknown,"Oslo, Norway Bayonne, NJ",Male,Not boarded,0,0,2,Southampton,0
+45,Not found,Unknown,"Ottawa, ON",Female,C,0,0,3,Cherbourg,1
+29.87093690248566,Not found,Unknown,"Ottawa, ON",Female,Not boarded,0,1,3,Cherbourg,0
+80.87093690248565,Not found,Unknown,"Ottawa, ON",Male,Not boarded,0,1,9,Cherbourg,0
+24,Not found,Unknown,Paris,Female,Not boarded,0,0,2,Southampton,0
+27,Not found,Unknown,Paris,Male,Not boarded,0,0,2,Cherbourg,0
+29.87093690248566,Not found,Unknown,"Paris /  New York, NY",Male,A,0,0,1,Southampton,1
+26,Not found,Unknown,Paris / Haiti,Female,14,6,3,6,Cherbourg,3
+25,Not found,Unknown,Paris / Haiti,Male,Not boarded,2,1,2,Cherbourg,0
+24,Not found,Unknown,"Paris / Montreal, PQ",Female,10,1,1,2,Cherbourg,1
+1,Not found,Unknown,"Paris / Montreal, PQ",Male,10,2,0,2,Cherbourg,1
+54,Not found,Unknown,"Paris / Montreal, PQ",Male,Not boarded,1,1,4,Cherbourg,0
+29.87093690248566,Not found,Unknown,"Paris, France",Male,7,0,0,1,Cherbourg,1
+39,Not found,Unknown,"Penzance, Cornwall / Akron, OH",Male,Not boarded,0,0,4,Southampton,0
+27,Not found,Unknown,"Philadelphia, PA",Male,3,0,0,1,Southampton,1
+29.87093690248566,Not found,Unknown,"Philadelphia, PA",Male,Not boarded,0,0,1,Cherbourg,0
+31,Not found,Unknown,"Philadelphia, PA",Male,Not boarded,0,0,3,Queenstown,0
+74,Not found,Unknown,"Philadelphia, PA",Male,Not boarded,0,0,5,Southampton,0
+43,Not found,Unknown,"Plymouth, Devon / Detroit, MI",Female,11,4,2,6,Southampton,3
+28,Not found,Unknown,"Plymouth, Dorset / Houghton, MI",Male,Not boarded,0,0,2,Southampton,0
+27,Not found,Unknown,"Plymouth, England",Female,Not boarded,0,1,2,Southampton,0
+29,Not found,Unknown,"Plymouth, England",Male,Not boarded,0,1,2,Southampton,0
+22,Not found,Unknown,"Pondersend, England / New Durham, NJ",Male,13,0,0,2,Southampton,1
+58,Not found,Unknown,Portugal,Male,Not boarded,0,0,6,Southampton,0
+32,Not found,Unknown,"Portugal / Sau Paulo, Brazil",Male,Not boarded,0,0,2,Southampton,0
+30,Not found,Unknown,"Provo, UT",Female,Not boarded,0,0,2,Southampton,0
+29.87093690248566,Not found,Unknown,"Roachdale, IN",Male,Not boarded,0,0,1,Southampton,0
+19,Not found,Unknown,"Rochester, NY",Female,12,0,0,2,Southampton,1
+46,Not found,Unknown,"Rochester, NY",Male,Not boarded,0,0,2,Southampton,0
+78,Not found,Unknown,"Rotherfield, Sussex, England Essex Co, MA",Female,Not boarded,7,5,9,Southampton,0
+34,Not found,Unknown,"Rotherfield, Sussex, England Essex Co, MA",Male,Not boarded,5,3,6,Southampton,0
+38,Not found,Unknown,"Rotterdam, Netherlands",Male,Not boarded,0,0,1,Southampton,0
+17,Not found,Unknown,"Ruotsinphyhtaa, Finland New York, NY",Female,D,2,4,3,Southampton,1
+33,Not found,Unknown,"Ruotsinphytaa, Finland New York, NY",Female,Not boarded,0,3,3,Southampton,1
+32,Not found,Unknown,"Ruotsinphytaa, Finland New York, NY",Male,D,0,1,3,Southampton,0
+28,Not found,Unknown,"Ruotsinphytaa, Finland New York, NY",Male,Not boarded,0,2,3,Southampton,0
+32,Not found,Unknown,Russia,Female,9,0,0,2,Southampton,1
+28,Not found,Unknown,"Russia New York, NY",Female,10,0,1,2,Cherbourg,1
+30,Not found,Unknown,"Russia New York, NY",Male,Not boarded,0,1,2,Cherbourg,0
+20,Not found,Unknown,"Salo, Finland Astoria, OR",Male,Not boarded,0,0,3,Southampton,0
+30,Not found,Unknown,"Sarnia, ON",Male,Not boarded,0,0,2,Southampton,0
+59,Not found,Unknown,"Sault St Marie, ON",Male,Not boarded,0,0,2,Southampton,0
+36,Not found,Unknown,"Sittingbourne, England / San Diego, CA",Female,9,0,0,2,Southampton,1
+20,Not found,Unknown,"Skara, Sweden / Rockford, IL",Female,12,0,1,2,Southampton,1
+25,Not found,Unknown,"Skara, Sweden / Rockford, IL",Male,Not boarded,0,1,2,Southampton,0
+96,Not found,Unknown,"Somerset / Bernardsville, NJ",Female,9,6,3,6,Southampton,3
+63,Not found,Unknown,"Somerset / Bernardsville, NJ",Male,Not boarded,2,1,4,Southampton,0
+52,Not found,Unknown,Southampton,Female,Not boarded,2,0,4,Southampton,2
+28,Not found,Unknown,Spain,Female,9,0,0,2,Southampton,1
+58.87093690248566,Not found,Unknown,"Spain / Havana, Cuba",Male,9,0,0,4,Cherbourg,2
+28,Not found,Unknown,"St Andrews, Guernsey",Male,Not boarded,0,0,2,Southampton,0
+30,Not found,Unknown,"St Austall, Cornwall",Male,Not boarded,0,0,2,Southampton,0
+28,Not found,Unknown,"St Denys, Southampton, Hants",Male,Not boarded,0,0,3,Southampton,0
+23,Not found,Unknown,"St Ives, Cornwall / Calumet, MI",Male,Not boarded,0,0,2,Southampton,0
+48,Not found,Unknown,"St Ives, Cornwall / Hancock, MI",Female,14,2,0,2,Southampton,1
+8,Not found,Unknown,"St Ives, Cornwall / Hancock, MI",Male,14,1,1,2,Southampton,1
+32,Not found,Unknown,"St Ives, Cornwall / Houghton, MI",Male,Not boarded,0,0,2,Southampton,0
+28,Not found,Unknown,"Stanton, IA",Female,Not boarded,1,1,3,Southampton,0
+0,Not found,Unknown,"Stanton, IA",Male,Not boarded,2,0,3,Southampton,0
+55,Not found,Unknown,"Stockholm, Sweden",Female,6,0,0,1,Cherbourg,1
+42,Not found,Unknown,"Stockholm, Sweden",Male,Not boarded,0,0,1,Southampton,0
+18,Not found,Unknown,"Stockholm, Sweden New York",Male,Not boarded,0,0,3,Southampton,0
+31,Not found,Unknown,"Strood, Kent, England Detroit, MI",Female,C D,1,1,3,Southampton,1
+9,Not found,Unknown,"Strood, Kent, England Detroit, MI",Male,C D,2,0,3,Southampton,1
+33,Not found,Unknown,"Strood, Kent, England Detroit, MI",Male,Not boarded,1,1,3,Southampton,0
+38,Not found,Unknown,"Sweden  Worcester, MA",Female,15,5,1,3,Southampton,1
+5,Not found,Unknown,"Sweden  Worcester, MA",Male,Not boarded,2,4,3,Southampton,0
+40,Not found,Unknown,"Sweden Akeley, MN",Female,Not boarded,0,1,3,Southampton,0
+20,Not found,Unknown,"Sweden Chicago, IL",Male,Not boarded,0,0,3,Southampton,0
+24,Not found,Unknown,"Sweden Joliet, IL",Male,Not boarded,0,0,3,Southampton,0
+67,Not found,Unknown,"Sweden Winnipeg, MN",Female,Not boarded,13,17,15,Southampton,0
+43,Not found,Unknown,"Sweden Winnipeg, MN",Male,Not boarded,7,5,6,Southampton,0
+5,Not found,Unknown,"Sweden Worcester, MA",Female,15,2,4,3,Southampton,1
+3,Not found,Unknown,"Sweden Worcester, MA",Male,15,2,4,3,Southampton,1
+44,Not found,Unknown,"Sweden Worcester, MA",Male,Not boarded,4,8,9,Southampton,0
+60,Not found,Unknown,"Swindon, England",Female,Not boarded,0,1,2,Southampton,0
+63,Not found,Unknown,"Swindon, England",Male,Not boarded,0,1,2,Southampton,0
+64.87093690248565,Not found,Unknown,Syria,Male,Not boarded,1,1,9,Cherbourg,0
+26,Not found,Unknown,"Syria Fredericksburg, VA",Male,15,0,0,3,Cherbourg,1
+38.87093690248566,Not found,Unknown,"Syria Kent, ON",Female,Not boarded,3,1,6,Cherbourg,0
+6,Not found,Unknown,"Syria Kent, ON",Male,Not boarded,1,1,3,Cherbourg,0
+31,Not found,Unknown,"Syria New York, NY",Female,C,6,6,12,Cherbourg,4
+63,Not found,Unknown,"Syria Ottawa, ON",Female,Not boarded,2,0,6,Cherbourg,0
+39,Not found,Unknown,"Syria Ottawa, ON",Male,Not boarded,2,0,3,Cherbourg,0
+13,Not found,Unknown,"Syria Youngstown, OH",Female,C,0,0,3,Cherbourg,1
+20,Not found,Unknown,"Taalintehdas, Finland Hoboken, NJ",Male,15,0,0,3,Southampton,1
+36,Not found,Unknown,"Tampico, MT",Female,13,0,1,3,Southampton,1
+36,Not found,Unknown,"Tampico, MT",Male,15,0,1,3,Southampton,1
+18,Not found,Unknown,"Tofta, Sweden Joliet, IL",Male,Not boarded,0,0,3,Southampton,0
+42,Not found,Unknown,"Tokyo, Japan",Male,10,0,0,2,Southampton,1
+22,Not found,Unknown,"Tranvik, Finland New York",Male,Not boarded,0,0,3,Southampton,0
+21,Not found,Unknown,"Treherbert, Cardiff, Wales",Male,Not boarded,0,0,3,Southampton,0
+30,Not found,Unknown,"Union Hill, NJ",Female,13,0,0,3,Southampton,1
+52.87093690248566,Not found,Unknown,Unknown,Female,10,0,1,6,Southampton,2
+67,Not found,Unknown,Unknown,Female,11,0,1,4,Southampton,2
+149.3546845124283,Not found,Unknown,Unknown,Female,13,0,0,15,Queenstown,5
+70,Not found,Unknown,Unknown,Female,13,0,0,9,Southampton,3
+16,Not found,Unknown,Unknown,Female,14,1,1,3,Cherbourg,1
+4,Not found,Unknown,Unknown,Female,15,1,0,3,Cherbourg,1
+53.87093690248566,Not found,Unknown,Unknown,Female,15,0,0,6,Queenstown,2
+157,Not found,Unknown,Unknown,Female,15,5,3,21,Southampton,7
+29.87093690248566,Not found,Unknown,Unknown,Female,15 16,0,0,3,Queenstown,1
+328.58030592734224,Not found,Unknown,Unknown,Female,16,0,7,33,Queenstown,11
+66,Not found,Unknown,Unknown,Female,16,0,2,8,Southampton,3
+30,Not found,Unknown,Unknown,Female,2,0,0,1,Cherbourg,1
+69,Not found,Unknown,Unknown,Female,2,3,1,7,Southampton,3
+35,Not found,Unknown,Unknown,Female,3,0,0,1,Cherbourg,1
+101.87093690248565,Not found,Unknown,Unknown,Female,4,0,0,3,Cherbourg,3
+26,Not found,Unknown,Unknown,Female,6,0,0,1,Southampton,1
+33,Not found,Unknown,Unknown,Female,8,0,0,1,Southampton,1
+40,Not found,Unknown,Unknown,Female,9,0,0,2,Southampton,1
+30,Not found,Unknown,Unknown,Female,A,0,1,3,Southampton,0
+184.7418738049713,Not found,Unknown,Unknown,Female,C,8,3,27,Cherbourg,9
+147.7418738049713,Not found,Unknown,Unknown,Female,C,0,0,18,Southampton,6
+29.87093690248566,Not found,Unknown,Unknown,Female,D,2,0,3,Cherbourg,1
+89.61281070745699,Not found,Unknown,Unknown,Female,D,0,0,9,Queenstown,3
+18,Not found,Unknown,Unknown,Female,D,0,0,3,Southampton,1
+121.61281070745699,Not found,Unknown,Unknown,Female,Not boarded,0,3,15,Cherbourg,2
+464.4512428298279,Not found,Unknown,Unknown,Female,Not boarded,0,2,51,Queenstown,4
+1495.9349904397704,Not found,Unknown,Unknown,Female,Not boarded,55,72,177,Southampton,4
+54,Not found,Unknown,Unknown,Male,11,0,0,6,Southampton,2
+97.87093690248565,Not found,Unknown,Unknown,Male,13,1,0,15,Southampton,5
+22,Not found,Unknown,Unknown,Male,13 15,0,0,3,Cherbourg,1
+25,Not found,Unknown,Unknown,Male,13 15,0,0,3,Southampton,1
+29.87093690248566,Not found,Unknown,Unknown,Male,14,0,0,3,Queenstown,1
+26,Not found,Unknown,Unknown,Male,14,0,0,3,Southampton,1
+117.87093690248565,Not found,Unknown,Unknown,Male,15,1,0,12,Cherbourg,4
+315,Not found,Unknown,Unknown,Male,15,1,3,36,Southampton,12
+0,Not found,Unknown,Unknown,Male,16,1,0,3,Cherbourg,1
+29.87093690248566,Not found,Unknown,Unknown,Male,16,0,2,3,Queenstown,1
+29,Not found,Unknown,Unknown,Male,2,1,3,3,Southampton,1
+22,Not found,Unknown,Unknown,Male,6,0,0,3,Cherbourg,1
+70,Not found,Unknown,Unknown,Male,9,0,0,6,Southampton,2
+145.87093690248565,Not found,Unknown,Unknown,Male,A,0,1,15,Southampton,3
+29.87093690248566,Not found,Unknown,Unknown,Male,B,0,0,3,Queenstown,1
+70.87093690248565,Not found,Unknown,Unknown,Male,B,0,0,9,Southampton,2
+155.61281070745696,Not found,Unknown,Unknown,Male,C,5,7,21,Cherbourg,6
+89.61281070745699,Not found,Unknown,Unknown,Male,C,0,0,9,Southampton,3
+1066.5152963671133,Not found,Unknown,Unknown,Male,Not boarded,1,9,108,Cherbourg,0
+1117.999043977056,Not found,Unknown,Unknown,Male,Not boarded,5,25,114,Queenstown,2
+5726.352772466542,Not found,Unknown,Unknown,Male,Not boarded,42,93,604,Southampton,0
+29.87093690248566,Not found,Unknown,"Upper Burma, India Pittsburgh, PA",Female,Not boarded,0,0,2,Southampton,0
+38,Not found,Unknown,"Vadsbro, Sweden Ministee, MI",Female,Not boarded,2,4,3,Southampton,0
+34,Not found,Unknown,"Vancouver, BC",Male,Not boarded,0,0,2,Southampton,0
+30,Not found,Unknown,"Walthamstow, England",Male,Not boarded,0,0,2,Southampton,0
+36,Not found,Unknown,"Warwick, England",Female,11,0,1,2,Southampton,1
+34,Not found,Unknown,"Warwick, England",Male,Not boarded,0,1,2,Southampton,0
+53,Not found,Unknown,"Washington, DC",Female,6,0,0,1,Cherbourg,1
+47,Not found,Unknown,"Washington, DC",Male,Not boarded,0,0,1,Southampton,0
+20,Not found,Unknown,"Waukegan, Chicago, IL",Male,Not boarded,0,0,3,Southampton,0
+62,Not found,Unknown,"West Bromwich, England Pontiac, MI",Male,Not boarded,0,6,9,Southampton,0
+45,Not found,Unknown,"West Hampstead, London / Neepawa, MB",Male,Not boarded,0,4,4,Southampton,0
+22,Not found,Unknown,"West Haven, CT",Female,16,0,1,3,Southampton,1
+23,Not found,Unknown,"West Haven, CT",Male,Not boarded,0,1,3,Southampton,0
+57,Not found,Unknown,"West Hoboken, NJ",Male,Not boarded,0,0,2,Southampton,0
+40,Not found,Unknown,"Weston-Super-Mare / Moose Jaw, SK",Male,Not boarded,0,0,2,Southampton,0
+42,Not found,Unknown,"Weston-Super-Mare, Somerset",Female,Not boarded,0,1,2,Southampton,1
+69,Not found,Unknown,"Wiltshire, England Niagara Falls, NY",Female,Not boarded,10,11,9,Southampton,0
+75,Not found,Unknown,"Wiltshire, England Niagara Falls, NY",Male,Not boarded,14,21,15,Southampton,0
+50,Not found,Unknown,"Woodford County, KY",Female,12,1,0,2,Southampton,1
+19,Not found,Unknown,"Worcester, England",Female,11,0,0,2,Southampton,1
+27,Not found,Unknown,"Worcester, MA",Male,Not boarded,0,0,2,Southampton,0
+26,Not found,Unknown,"Yoevil, England / Cottage Grove, OR",Female,9,0,0,2,Southampton,1
+45,Not found,Unknown,"Youngstown, OH",Female,8,1,1,1,Southampton,1
+57,Not found,Unknown,"Youngstown, OH",Male,Not boarded,1,1,1,Southampton,0
+47,Not found,Upper Deck,"Amenia, ND",Female,4,0,1,1,Southampton,1
+46,Not found,Upper Deck,"Amenia, ND",Male,Not boarded,0,1,1,Southampton,0
+27,Not found,Upper Deck,"Bath, England / Massachusetts",Female,16,0,0,2,Southampton,1
+29.87093690248566,Not found,Upper Deck,"Brighton, MA",Male,Not boarded,0,0,1,Southampton,0
+25,Not found,Upper Deck,"Brooklyn, NY",Female,5,0,1,1,Cherbourg,1
+25,Not found,Upper Deck,"Brooklyn, NY",Male,5,0,1,1,Cherbourg,1
+36,Not found,Upper Deck,"Brooklyn, NY",Male,5,0,0,1,Southampton,1
+39,Not found,Upper Deck,"Duluth, MN",Female,11,0,1,1,Southampton,1
+50,Not found,Upper Deck,"Duluth, MN",Male,Not boarded,0,1,1,Southampton,0
+32,Not found,Upper Deck,"England / Hartford, CT",Female,12,0,0,2,Southampton,1
+29.87093690248566,Not found,Upper Deck,"Harrisburg, PA",Female,10,0,0,2,Queenstown,1
+103,Not found,Upper Deck,"Lakewood, NJ",Female,14,3,1,2,Cherbourg,2
+37,Not found,Upper Deck,"Lakewood, NJ",Male,Not boarded,1,1,1,Cherbourg,0
+51,Not found,Upper Deck,"Lima, Peru",Male,5 9,0,0,1,Southampton,1
+50,Not found,Upper Deck,London,Male,Not boarded,0,0,1,Southampton,0
+57,Not found,Upper Deck,"New York, NY",Female,8,3,1,2,Southampton,2
+48,Not found,Upper Deck,"New York, NY",Male,3,0,0,1,Southampton,1
+42,Not found,Upper Deck,"New York, NY",Male,5,0,0,1,Southampton,1
+52,Not found,Upper Deck,"New York, NY",Male,Not boarded,1,1,1,Southampton,0
+33,Not found,Upper Deck,"New York, NY / Ithaca, NY",Female,5,0,1,1,Southampton,1
+27,Not found,Upper Deck,"New York, NY / Ithaca, NY",Male,5,0,1,1,Southampton,1
+36,Not found,Upper Deck,"Philadelphia, PA",Male,7,0,0,1,Southampton,1
+51.87093690248566,Not found,Upper Deck,"St Leonards-on-Sea, England Ohio",Female,6,2,0,2,Southampton,2
+35,Not found,Upper Deck,"St Louis, MO",Male,5,0,0,1,Southampton,1
+40,Not found,Upper Deck,"Tuxedo Park, NY",Female,3,1,1,1,Cherbourg,1
+51,Not found,Upper Deck,"Tuxedo Park, NY",Male,3,3,1,2,Cherbourg,2
+30,Not found,Upper Deck,Unknown,Female,1,0,0,1,Cherbourg,1
+27,Not found,Upper Deck,Unknown,Female,14,1,0,3,Southampton,1
+72,Not found,Upper Deck,Unknown,Female,3,0,0,2,Cherbourg,2
+6,Not found,Upper Deck,Unknown,Male,14,1,0,3,Southampton,1
+32,Not found,Upper Deck,Unknown,Male,9,0,0,3,Southampton,1
+47,Not found,Upper Deck,"Victoria, BC",Male,Not boarded,0,0,1,Southampton,0
